@@ -7,5 +7,6 @@ public class Main {
         System.out.printf("Hello and welcome!");
 
 
+        System.out.println("Hola me encanta  que funciones, y también los errores que me presentas");
     }
 }
